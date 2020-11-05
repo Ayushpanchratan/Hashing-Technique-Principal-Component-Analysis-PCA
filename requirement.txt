@@ -1,0 +1,6 @@
+numpy
+matplotlib
+os
+random
+zipfile
+warnings
